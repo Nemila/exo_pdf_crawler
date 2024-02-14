@@ -731,12 +731,12 @@
   },
   {
     "title": "Windows_Installation_Guide",
-    "host": "https://kutasoftware.com/freeipc.html",
+    "host": "https://kutasoftware.com/freeica.html",
     "link": "Forms/KS%20Installation%20Guide.pdf"
   },
   {
     "title": "Mac_Installation_Guide",
-    "host": "https://kutasoftware.com/freeipc.html",
+    "host": "https://kutasoftware.com/freeica.html",
     "link": "Forms/KS%20Installation%20Guide%20Mac.pdf"
   },
   {
@@ -26233,5 +26233,5735 @@
     "title": "25_circuits_ohm_s_law_pdf",
     "host": "https://www.csh.k12.ny.us/Page/3893",
     "link": "../../site/handlers/filedownload.ashx?moduleinstanceid=554&dataid=2503&FileName=25_circuits-ohm_s law.pdf"
+  },
+  {
+    "title": "28_6_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/fus1n1a12n3p.pdf"
+  },
+  {
+    "title": "1_3_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/1n-vision-et-couleur-1.pdf"
+  },
+  {
+    "title": "1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/1n-vision-et-couleur-2.pdf"
+  },
+  {
+    "title": "1_3_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/2n-sources-de-lumiere-coloree-1.pdf"
+  },
+  {
+    "title": "544_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/2n-sources-de-lumiere-coloree-2.pdf"
+  },
+  {
+    "title": "878_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/3n-vision-et-image-1.pdf"
+  },
+  {
+    "title": "219_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/3n-vision-et-image-2.pdf"
+  },
+  {
+    "title": "647_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/3n-vision-et-image-3.pdf"
+  },
+  {
+    "title": "605_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/4n-interaction-lumiere-matiere-1.pdf"
+  },
+  {
+    "title": "257_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/4n-interaction-lumiere-matiere-2.pdf"
+  },
+  {
+    "title": "179_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/4n-interaction-lumiere-matiere-3.pdf"
+  },
+  {
+    "title": "535_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s.html",
+    "link": "download/5n-chimie-des-couleurs-1.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/12-2-gammes-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/12-2-gammes-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/12-2-gammes-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-12-2-gammes-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-12-2-gammes-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-12-2-gammes-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/12-3-gammes-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/12-3-gammes-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/12-3-gammes-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/13-1-analogique-numerique-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/13-1-analogique-numerique-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/13-1-analogique-numerique-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-13-1-analogique-numerique-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-13-1-analogique-numerique-a5%20(2).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-13-1-analogique-numerique-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/13-2-analogique-numerique-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/13-2-analogique-numerique-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/13-2-analogique-numerique-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-13-2-analogique-numerique-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-13-2-analogique-numerique-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-13-2-analogique-numerique-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/13-3-analogique-numerique-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/13-3-analogique-numerique-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/13-3-analogique-numerique-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-13-3-analogique-numerique-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-13-3-analogique-numerique-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/premiere-l.html",
+    "link": "download/prof-13-3-analogique-numerique-a6.pdf"
+  },
+  {
+    "title": "65_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/physique-1-2012-description-de-l-univers-complet.pdf"
+  },
+  {
+    "title": "120_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/physique-2-2012-spectres-complet.pdf"
+  },
+  {
+    "title": "172_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/physique-3-2012-refraction-dispersion-complet.pdf"
+  },
+  {
+    "title": "69_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/chimie-4-2012-atome-complet.pdf"
+  },
+  {
+    "title": "227_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/chimie-5-2012-les-elements-complet.pdf"
+  },
+  {
+    "title": "191_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/physique-6-2012-relativite-complet.pdf"
+  },
+  {
+    "title": "184_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/physique-7-2012-gravitation-complet.pdf"
+  },
+  {
+    "title": "69_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/chimie-8-2012-extractions-complet.pdf"
+  },
+  {
+    "title": "64_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/chimie-9-2012-identifications-complet.pdf"
+  },
+  {
+    "title": "281_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-de-physique-n-1-supernova-complet.pdf"
+  },
+  {
+    "title": "40_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-de-physique-n-2-refraction.pdf"
+  },
+  {
+    "title": "45_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-de-physique-3-2012-table-a-coussin-d-air.pdf"
+  },
+  {
+    "title": "942_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-physique-7-2012-ultrasons-complet.pdf"
+  },
+  {
+    "title": "45_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-de-chimie-1-2nde6-2012-l-element-cuivre.pdf"
+  },
+  {
+    "title": "43_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-de-chimie-n-2-2012-tests-d-identification-des-ions.pdf"
+  },
+  {
+    "title": "46_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-de-chimie-3-halogenes.pdf"
+  },
+  {
+    "title": "96_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-de-chimie-n-4-2011-hydrodistillation.pdf"
+  },
+  {
+    "title": "99_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-de-chimie-5-2011-vanille.pdf"
+  },
+  {
+    "title": "60_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tpc-n-6-2011-chlorophylle.pdf"
+  },
+  {
+    "title": "69_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tp-de-chimie-n-7-2011-aspirine.pdf"
+  },
+  {
+    "title": "199_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/vers-l-infiniment-grand-par-9.pdf"
+  },
+  {
+    "title": "215_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/vers-l-infiniment-petit-par-9.pdf"
+  },
+  {
+    "title": "158_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/principe-de-moindre-action-par-9.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/chimie-5-tableau-periodique-par-6.pdf"
+  },
+  {
+    "title": "168_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/cours-9-3-la-chromatographie-par-6.pdf"
+  },
+  {
+    "title": "86_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/cours-chimie-10-2012-formulation-par-6.pdf"
+  },
+  {
+    "title": "24_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/td1-2nde6-2012-prisme.pdf"
+  },
+  {
+    "title": "24_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/td2-2nde6-2012-rutherford.pdf"
+  },
+  {
+    "title": "68_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/tdc-3-seconde-6-2012-naissance-classification.pdf"
+  },
+  {
+    "title": "88_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/techniques-d-extraction.pdf"
+  },
+  {
+    "title": "769_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/corrige-1-2012-description-de-l-univers-par-16-et-9.pdf"
+  },
+  {
+    "title": "46_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/keynote-2-lumiere-des-etoiles-par-9.pdf"
+  },
+  {
+    "title": "672_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/keynote-3-2012-refraction-par-9.pdf"
+  },
+  {
+    "title": "472_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/keynote-4-2012-atome-par-6.pdf"
+  },
+  {
+    "title": "767_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/keynote-5-2012-les-elements-par-9.pdf"
+  },
+  {
+    "title": "151_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/keynote-6-2012-relativite-par-9.pdf"
+  },
+  {
+    "title": "1_3_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/keynote-7-2012-gravitation-universelle-par-9.pdf"
+  },
+  {
+    "title": "128_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/keynote-8-2012-extractions-par-9.pdf"
+  },
+  {
+    "title": "668_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/keynote-chimie-9-2012-identifications-par-6.pdf"
+  },
+  {
+    "title": "109_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/ds2-2nde6-2012-complet.pdf"
+  },
+  {
+    "title": "201_ko",
+    "host": "https://www.chaurand.fr/site/seconde-12.html",
+    "link": "download/ds4-2nde6-2012-gesi-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/9-3-actions-et-forces-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/9-3-actions-et-forces-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/9-3-actions-et-forces-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-9-3-actions-et-forces-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-9-3-actions-et-forces-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-9-3-actions-et-forces-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-9-4-actions-et-forces-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-9-4-actions-et-forces-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-9-4-actions-et-forces-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/9-4-actions-et-forces-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/9-4-actions-et-forces-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/9-4-actions-et-forces-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/9-5-principe-d-inertie-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/9-5-principe-d-inertie-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/9-5-principe-d-inertie-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/aide-exercices-9-4-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/aide-exercices-9-4-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/aide-exercices-9-4-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/10-1-principe-d-inertie-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/10-1-principe-d-inertie-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/10-1-principe-d-inertie-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-10-1-principe-d-inertie-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-10-1-principe-d-inertie-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-10-1-principe-d-inertie-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/10-2-principe-d-inertie-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/10-2-principe-d-inertie-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/10-2-principe-d-inertie-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-10-2-principe-d-inertie-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-10-2-principe-d-inertie-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-10-2-principe-d-inertie-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/11-1-quantite-de-matiere-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/11-1-quantite-de-matiere-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/11-1-quantite-de-matiere-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-11-1-quantite-de-matiere-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-11-1-quantite-de-matiere-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-11-1-quantite-de-matiere-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/12-1-changement-d-etat-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/12-1-changement-d-etat-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/12-1-changement-d-etat-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-12-1-changement-d-etat-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-12-1-changement-d-etat-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-12-1-changement-d-etat-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/12-2-changement-d-etat-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/12-2-changement-d-etat-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/12-2-changement-d-etat-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-12-2-changement-d-etat-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-12-2-changement-d-etat-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-12-2-changement-d-etat-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/13-1-la-transformation-chimique-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/13-1-la-transformation-chimique-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/13-1-la-transformation-chimique-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-13-1-la-transformation-chimique-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-13-1-la-transformation-chimique-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-13-1-la-transformation-chimique-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/13-2-la-transformation-chimique-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/13-2-la-transformation-chimique-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/13-2-la-transformation-chimique-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-13-2-la-transformation-chimique-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-13-2-la-transformation-chimique-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-13-2-la-transformation-chimique-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/14-1-transformations-nucleaires-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/14-1-transformations-nucleaires-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/14-1-transformations-nucleaires-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-14-1-transformations-nucleaires-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-14-1-transformations-nucleaires-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-14-1-transformations-nucleaires-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/14-2-transformations-nucleaires-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/14-2-transformations-nucleaires-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/14-2-transformations-nucleaires-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-14-2-transformations-nucleaires-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-14-2-transformations-nucleaires-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-14-2-transformations-nucleaires-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/15-1-synthese-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/15-1-synthese-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/15-1-synthese-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-15-1-synthese-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-15-1-synthese-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-15-1-synthese-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-15-2-synthese-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-15-2-synthese-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-15-2-synthese-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/16-1-propagation-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/16-1-propagation-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/16-1-propagation-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-16-1-propagation-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-16-1-propagation-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-16-1-propagation-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/17-1-les-spectres-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/17-1-les-spectres-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/17-1-les-spectres-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-17-1-les-spectres-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-17-1-les-spectres-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-17-1-les-spectres-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/18-1-lentilles-et-oeil-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/18-1-lentilles-et-oeil-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/18-1-lentilles-et-oeil-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-18-1-lentilles-et-oeil-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-18-1-lentilles-et-oeil-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/seconde.html",
+    "link": "download/prof-18-1-lentilles-et-oeil-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/resume-physique-chimie-ts-2020-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/resume-physique-chimie-ts-2020-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/16-1-cinetique-et-catalyse-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/16-1-cinetique-et-catalyse-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/16-1-cinetique-et-catalyse-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/16-2-cinetique-et-catalyse-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/16-2-cinetique-et-catalyse-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/16-2-cinetique-et-catalyse-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/17-3-chiralite-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/17-3-chiralite-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/17-3-chiralite-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-17-3-chiralite-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-17-3-chiralite-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-17-3-chiralite-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/17-4-chiralite-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/17-4-chiralite-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/17-4-chiralite-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-17-4-chiralite-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-17-4-chiralite-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-17-4-chiralite-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-1-transfo-orga-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-1-transfo-orga-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-1-transfo-orga-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-1-transfo-orga-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-1-transfo-orga-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-1-transfo-orga-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-2-transfo-orga-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-2-transfo-orga-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-2-transfo-orga-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-2-transfo-orga-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-2-transfo-orga-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-2-transfo-orga-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-3-transfo-orga-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-3-transfo-orga-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-3-transfo-orga-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-3-transfo-orga-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-3-transfo-orga-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-3-transfo-orga-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-4-transfo-orga-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-4-transfo-orga-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/18-4-transfo-orga-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-4-transfo-orga-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-4-transfo-orga-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-18-4-transfo-orga-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-19-1-la-relativite-du-temps-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-19-1-la-relativite-du-temps-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-19-1-la-relativite-du-temps-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-19-2-la-relativite-du-temps-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-19-2-la-relativite-du-temps-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-19-2-la-relativite-du-temps-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/19-3-la-relativite-du-temps-a4%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/19-3-la-relativite-du-temps-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/19-3-la-relativite-du-temps-a6%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-19-3-la-relativite-du-temps-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-19-3-la-relativite-du-temps-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-19-3-la-relativite-du-temps-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/20-1-transferts-quantiques-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/20-1-transferts-quantiques-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/20-1-transferts-quantiques-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-20-1-transferts-quantiques-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-20-1-transferts-quantiques-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-20-1-transferts-quantiques-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-20-2-transferts-quantiques-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-20-2-transferts-quantiques-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-20-2-transferts-quantiques-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-21-1-dualite-onde-particule-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-21-1-dualite-onde-particule-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-21-1-dualite-onde-particule-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/20-3-transferts-quantiques-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/20-3-transferts-quantiques-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/20-3-transferts-quantiques-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-20-3-transferts-quantiques-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-20-3-transferts-quantiques-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-20-3-transferts-quantiques-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/21-2-dualite-onde-particule-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/21-2-dualite-onde-particule-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/21-2-dualite-onde-particule-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-21-2-dualite-onde-particule-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-21-2-dualite-onde-particule-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-21-2-dualite-onde-particule-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/22-1-transferts-thermiques-d-energie-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/22-1-transferts-thermiques-d-energie-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/22-1-transferts-thermiques-d-energie-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-22-1-transferts-thermiques-d-energie-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-22-1-transferts-thermiques-d-energie-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-22-1-transferts-thermiques-d-energie-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/22-2-transferts-thermiques-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/22-2-transferts-thermiques-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/22-2-transferts-thermiques-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-22-2-transferts-thermiques-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-22-2-transferts-thermiques-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-22-2-transferts-thermiques-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/23-1-strategie-de-synthese-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/23-1-strategie-de-synthese-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/23-1-strategie-de-synthese-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-23-1-strategie-de-synthese-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-23-1-strategie-de-synthese-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-23-1-strategie-de-synthese-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-23-2-strategie-de-synthese-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-23-2-strategie-de-synthese-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-23-2-strategie-de-synthese-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-23-3-strategie-de-synthese-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-23-3-strategie-de-synthese-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-23-3-strategie-de-synthese-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-24-1-selectivite-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-24-1-selectivite-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-24-1-selectivite-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/25-1-enjeux-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/25-1-enjeux-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/25-1-enjeux-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-25-1-enjeux-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-25-1-enjeux-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-25-1-enjeux-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/26-1-information-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/26-1-information-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/26-1-information-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-26-1-information-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-26-1-information-a5%20(1).pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-26-1-information-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/26-2-information-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/26-2-information-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/26-2-information-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-26-2-information-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-26-2-information-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-26-2-information-a6.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-26-3-information-a4.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-26-3-information-a5.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts.html",
+    "link": "download/prof-26-3-information-a6.pdf"
+  },
+  {
+    "title": "2_8_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-1.pdf"
+  },
+  {
+    "title": "389_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-2.pdf"
+  },
+  {
+    "title": "538_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-3.pdf"
+  },
+  {
+    "title": "738_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-4.pdf"
+  },
+  {
+    "title": "2_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-5.pdf"
+  },
+  {
+    "title": "2_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-5-completee.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-6.pdf"
+  },
+  {
+    "title": "890_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-6-completee.pdf"
+  },
+  {
+    "title": "4_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-7.pdf"
+  },
+  {
+    "title": "3_5_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-7-completee.pdf"
+  },
+  {
+    "title": "274_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-8.pdf"
+  },
+  {
+    "title": "837_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-9.pdf"
+  },
+  {
+    "title": "2_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-10.pdf"
+  },
+  {
+    "title": "3_7_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-11.pdf"
+  },
+  {
+    "title": "5_7_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/Science-12.pdf"
+  },
+  {
+    "title": "483_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/BB1-1ES1.pdf"
+  },
+  {
+    "title": "275_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/BB1-1ES2.pdf"
+  },
+  {
+    "title": "338_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/BB1-1L.pdf"
+  },
+  {
+    "title": "129_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/BB3-1ES1.pdf"
+  },
+  {
+    "title": "303_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-15.html",
+    "link": "http://www.chaurand.fr/site/1LES2015/BB3-1L.pdf"
+  },
+  {
+    "title": "2_8_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-1.pdf"
+  },
+  {
+    "title": "0_5_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-2.pdf"
+  },
+  {
+    "title": "0_5_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-3.pdf"
+  },
+  {
+    "title": "0_6_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-4.pdf"
+  },
+  {
+    "title": "2_3_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-5.pdf"
+  },
+  {
+    "title": "1_2_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-6.pdf"
+  },
+  {
+    "title": "3_6_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-7.pdf"
+  },
+  {
+    "title": "1_0_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-8.pdf"
+  },
+  {
+    "title": "1_6_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-9.pdf"
+  },
+  {
+    "title": "2_0_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/Science-10.pdf"
+  },
+  {
+    "title": "3_6_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/science-11-qualite-des-sols.pdf"
+  },
+  {
+    "title": "4_7_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/science-12-qualite-des-eaux.pdf"
+  },
+  {
+    "title": "7_6_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/science-11-12-qualite-des-sols-et-de-l-eau.pdf"
+  },
+  {
+    "title": "3_8_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/sciences-13-qualite-des-aliments.pdf"
+  },
+  {
+    "title": "3_8_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/sciences-13-qualite-des-aliments-completee.pdf"
+  },
+  {
+    "title": "207_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/BB1-1ES1.pdf"
+  },
+  {
+    "title": "289_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/BB1-1ES2.pdf"
+  },
+  {
+    "title": "321_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "http://www.chaurand.fr/site/1LES2016/BB2-1ES1.pdf"
+  },
+  {
+    "title": "258_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/bb3-1es1-photovoltaique-et-nucleaire-complet.pdf"
+  },
+  {
+    "title": "298_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/bb3-1es2-exo-2-pigments-complet.pdf"
+  },
+  {
+    "title": "458_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/bb3-1es2-ratt-partie-2-complet.pdf"
+  },
+  {
+    "title": "182_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/corr-bb3-1l-exo-1-syndrome-vision.pdf"
+  },
+  {
+    "title": "140_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-16.html",
+    "link": "download/corr-bb3-1l-exo-2-eau-potable.pdf"
+  },
+  {
+    "title": "Corrige__Physique_T___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Corrige%cc%81%20Physique%20TS%2001%20-%20Ondes%20me%cc%81caniques-livret.pdf"
+  },
+  {
+    "title": "Cours_Physique_2___O___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Cours%20Physique%202%20-%20OMPP-livret.pdf"
+  },
+  {
+    "title": "E_nonce__13___Osci___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "E%cc%81nonce%cc%81%2013%20-%20Oscillations%20dans%20un%20dipo%cc%82le%20RLC-Complet.pdf"
+  },
+  {
+    "title": "Exercices_de_Physiqu___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Exercices%20de%20Physique%20TS.pdf"
+  },
+  {
+    "title": "Fin_cours_11_Energie___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Fin-cours-11-Energie-condensateur.pdf"
+  },
+  {
+    "title": "Fin_cours_12_Energie___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Fin-cours-12-Energie-bobine.pdf"
+  },
+  {
+    "title": "Mode_d_emploi_Cineri___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Mode%20d'emploi%20Cineris-Par%209%20Re%cc%81duit.pdf"
+  },
+  {
+    "title": "Mode_d_emploi_Cineri___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Mode%20d'emploi%20Cineris.pdf"
+  },
+  {
+    "title": "Mode_d_emploi_Latis____",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Mode%20d'emploi%20Latis%20Pro%20en%20Tableur-livret%20Re%cc%81duit.pdf"
+  },
+  {
+    "title": "Mode_d_emploi_TI_89____",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Mode%20d'emploi%20TI%2089%20-%20Statistiques-livret.pdf"
+  },
+  {
+    "title": "MouvementProjectile_pdf",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "MouvementProjectile.pdf"
+  },
+  {
+    "title": "Physique_10_2008_Sat___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique-10-2008-Satellites-Complet.pdf"
+  },
+  {
+    "title": "Physique_16_2008_Ene___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique-16-2008-Energie-me%cc%81canique-Complet.pdf"
+  },
+  {
+    "title": "Physique_17_Quantiqu___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique-17-Quantique-Complet.pdf"
+  },
+  {
+    "title": "Physique_02___Ondes____",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%2002%20-%20Ondes%20me%cc%81caniques%20pe%cc%81riodiques-complet.pdf"
+  },
+  {
+    "title": "Physique_03_2008___M___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%2003%202008%20-%20Mode%cc%80le%20ondulatoire%20de%20la%20lumie%cc%80re-livret.pdf"
+  },
+  {
+    "title": "Physique_4_2007___La___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%204%202007%20-%20La%20radioactivite%cc%81%20Complet.pdf"
+  },
+  {
+    "title": "Physique_5_2007___No___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%205%202007%20-%20Noyaux%20Complet.pdf"
+  },
+  {
+    "title": "Physique_6___Comple____",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%206%20-%20Comple%cc%81ments%20mathe%cc%81matiques-Par%2016.pdf"
+  },
+  {
+    "title": "Physique_6_2007___De___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%206%202007%20-%20De%cc%81croissance%20radioactive%20Complet.pdf"
+  },
+  {
+    "title": "Physique_7_2008___La___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%207%202008%20-%20La%20me%cc%81canique%20de%20Newton-Complet.pdf"
+  },
+  {
+    "title": "Physique_8___Chutes____",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%208%20-%20Chutes%20verticales-Complet.pdf"
+  },
+  {
+    "title": "Physique_9___Mouveme___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%209%20-%20Mouvements%20plans-Complet.pdf"
+  },
+  {
+    "title": "Physique_11___Conden___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%2011%20-%20Condensateur%20dipole%20RC-Complet.pdf"
+  },
+  {
+    "title": "Physique_12___Bobine___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%2012%20-%20Bobine,%20dipo%cc%82le%20RL-Complet.pdf"
+  },
+  {
+    "title": "Physique_14___Le_pen___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%2014%20-%20Le%20pendule%20simple-Complet.pdf"
+  },
+  {
+    "title": "Physique_15___Solide___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Physique%2015%20-%20Solide%20ressort%20et%20re%cc%81sonance-Complet.pdf"
+  },
+  {
+    "title": "Pre_sentation_et_re___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Pre%cc%81sentation%20et%20re%cc%81glages%20oscilloscope.pdf"
+  },
+  {
+    "title": "Programme_et_revisio___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "Programme-et-revisions-2008.pdf"
+  },
+  {
+    "title": "TP_Ph_7_2008_Euler_l___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP-Ph-7-2008-Euler-livret.pdf"
+  },
+  {
+    "title": "TP_Ph_8_2008_Mouveme___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP-Ph-8-2008-Mouvements-Et-Planetes.pdf"
+  },
+  {
+    "title": "TP_Physique_9_2008_R___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP-Physique-9-2008-RC-livret.pdf"
+  },
+  {
+    "title": "TP_Physique_10_Bobin___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP-Physique-10-Bobine-livret.pdf"
+  },
+  {
+    "title": "TP_Physique_11_RLC_pdf",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP-Physique-11-RLC.pdf"
+  },
+  {
+    "title": "TPP_12_Pendule_simpl___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TPP-12-Pendule-simple-nouveau.pdf"
+  },
+  {
+    "title": "TPP_13_Etudes_energe___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TPP-13-Etudes-energetiques.pdf"
+  },
+  {
+    "title": "TPP_14_Revisions_liv___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TPP-14-Revisions-livret.pdf"
+  },
+  {
+    "title": "TP_Physique_1___Ultr___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP%20Physique%201%20-%20Ultrasons.pdf"
+  },
+  {
+    "title": "TP_Physique_4_2008_____",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP%20Physique%204%202008%20-%20CRAB-livret.pdf"
+  },
+  {
+    "title": "TP_Physique_4_2008_____",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP%20Physique%204%202008%20-%20CRAB-livret_1.pdf"
+  },
+  {
+    "title": "TP_de_Physique_2___T___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP%20de%20Physique%202%20-%20Traitement%20vide%cc%81o%20avec%20Generis-livret.pdf"
+  },
+  {
+    "title": "TP_de_Physique_3___D___",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP%20de%20Physique%203%20-%20Diffraction%20de%20la%20lumie%cc%80re.pdf"
+  },
+  {
+    "title": "TP_de_Physique_n_6____",
+    "host": "https://www.chaurand.fr/professeur/PhysiqueTS-08_files/",
+    "link": "TP%20de%20Physique%20n%c2%b06%20-%20Me%cc%81canique%20sur%20coussin%20d'air.pdf"
+  },
+  {
+    "title": "130_ko",
+    "host": "https://www.chaurand.fr/site/mps.html",
+    "link": "download/1-diffraction-laser.pdf"
+  },
+  {
+    "title": "1_3_Mo",
+    "host": "https://www.chaurand.fr/site/mps.html",
+    "link": "download/2-chromatographie.pdf"
+  },
+  {
+    "title": "2_3_Mo",
+    "host": "https://www.chaurand.fr/site/mps.html",
+    "link": "download/3-empreintes.pdf"
+  },
+  {
+    "title": "1_5_Mo",
+    "host": "https://www.chaurand.fr/site/mps.html",
+    "link": "download/4-pendule-simple.pdf"
+  },
+  {
+    "title": "13_ko",
+    "host": "https://www.chaurand.fr/site/mps.html",
+    "link": "download/1-colle%20(2).pdf"
+  },
+  {
+    "title": "341_ko",
+    "host": "https://www.chaurand.fr/site/mps.html",
+    "link": "download/1-colle%20(3).pdf"
+  },
+  {
+    "title": "362_ko",
+    "host": "https://www.chaurand.fr/site/mps.html",
+    "link": "download/2-chocolat%20(1).pdf"
+  },
+  {
+    "title": "987_ko",
+    "host": "https://www.chaurand.fr/site/mps.html",
+    "link": "download/3-limonade.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-1-cristallisation.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-2-couleurs-et-polarisation.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-3-teinture.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-4-tests-des-ions.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-1-chromatographie.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-1-paracetamol.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-2-coca-cola.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-2-dosage.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-3-releves-d-indices.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-3-spectroscopie.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-3-spectrophotometrie.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-3-delai-post-mortem.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-4-empreintes.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-4-diffraction-laser.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-4-analyse-sol.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/mps-5-empreintes.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/mps-16.html",
+    "link": "download/-mps-5-concentration.pdf"
+  },
+  {
+    "title": "Sp_cialit__11_Salinite__pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%2011%20Salinite%CC%81.pdf"
+  },
+  {
+    "title": "Sp_cialit__12_Dosage_eau_de_mer_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%2012%20Dosage%20eau%20de%20mer.pdf"
+  },
+  {
+    "title": "Sp_cialit__13_Durete__et_e_rosion_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2013%20Durete%CC%81%20et%20e%CC%81rosion.pdf"
+  },
+  {
+    "title": "Sp_cialit__14_Carbonates_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2014%20Carbonates.pdf"
+  },
+  {
+    "title": "Sp_cialit__15_Traceurs_et_pollution_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2015%20Traceurs.pdf"
+  },
+  {
+    "title": "Sp_cialit__2_Voix_et_bande_passante_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%202%20Voix%20et%20bande%20passante.pdf"
+  },
+  {
+    "title": "Sp_cialit__1_HP_et_micro_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%201%20HP%20et%20micro.pdf"
+  },
+  {
+    "title": "Sp_cialit__21_Cellule_photovoltaique_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2021%20Photovoltaique.pdf"
+  },
+  {
+    "title": "Sp_cialit__22_Production_et_corrosion_des_m_taux_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Se%CC%81ance%2022%20Production%20et%20corrosion.pdf"
+  },
+  {
+    "title": "Spe_cialit__24_Saponification_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2024%20Saponification.pdf"
+  },
+  {
+    "title": "Spe_cialit__25_Polyme_res_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2025%20Polyme%CC%80res.pdf"
+  },
+  {
+    "title": "Sp_cialit__3_Instruments___cordes_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%203%20Guitare.pdf"
+  },
+  {
+    "title": "Spe_cialite__4_Instruments_a__vent_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81cialite%CC%81%204%20Instruments%20a%CC%80%20vent.pdf"
+  },
+  {
+    "title": "Sp_cialit__5_Sons_et_transports_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%205%20Transports.pdf"
+  },
+  {
+    "title": "Sp_cialit__6_Gammes_et_harmonies_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20n%C2%B06%20Gammes%20et%20harmonies.pdf"
+  },
+  {
+    "title": "Sp_cialit__7_Analyse_et_synth_se_d_un_son_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%207%20Analyse.pdf"
+  },
+  {
+    "title": "Sp_cialit__8_Acquisition_et_traitement_d_un_son_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%208%20Acquisition.pdf"
+  },
+  {
+    "title": "Sp_cialit__9_Re_verbe_ration_et__architecture_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%209%20Re%CC%81verbe%CC%81ration%20isolation.pdf"
+  },
+  {
+    "title": "Sp_cialit__10_Filtrage_et_isolation_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/TP%20Spe%CC%81%2010%20Filtrage%20et%20isolation.pdf"
+  },
+  {
+    "title": "Sp_cialit__12_Pluies_acides_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Se%CC%81ance%2012%20Pluies%20acides.pdf"
+  },
+  {
+    "title": "Sp_cialit__16_Dosage_spectrophotom_trique_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%20se%CC%81ance%2016%20Sirop%20de%20menthe.pdf"
+  },
+  {
+    "title": "Sp_cialit__17_Re_sine__changeuse_d_ions_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Se%CC%81ance%2017%20Re%CC%81sine.pdf"
+  },
+  {
+    "title": "Spe_cialit__23_Thermistance_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2023%20Thermistance.pdf"
+  },
+  {
+    "title": "Sp_cialit__20_Diode_et_redressement_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2020%20Diode%20et%20redressement.pdf"
+  },
+  {
+    "title": "Spe_cialit__18_Galvanoste_gie_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2018%20Galvanoste%CC%81gie.pdf"
+  },
+  {
+    "title": "Sp_cialit__19_E_lectrolyse_et_PAC_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2019%20E%CC%81lectrolyse%20et%20PAC.pdf"
+  },
+  {
+    "title": "Spe_cialit__26_Cristaux_liquides_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2026%20Cristaux%20liquides.pdf"
+  },
+  {
+    "title": "Spe_cialit__27_Supraconductivite____colle_et_adh_sifs_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Spe%CC%81%2027%20Supraconductivite%CC%81%20+%20colle.pdf"
+  },
+  {
+    "title": "DS1__mission_d_un_son_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/DS1%20Son%20partiel.pdf"
+  },
+  {
+    "title": "DS2_Concert_en_sous_sol_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/DS2%20Concert%20complet.pdf"
+  },
+  {
+    "title": "DS3_Manquer_d_eau_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/DS3%20Manquer%20d%27eau%20complet.pdf"
+  },
+  {
+    "title": "DS4_V_hicule_H2_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/DS4%20Spe%CC%81%20H2%20complet.pdf"
+  },
+  {
+    "title": "DS5_Corrosion_en_milieu_marin_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/DS5%20Corrosion%20complet.pdf"
+  },
+  {
+    "title": "DS5_ratt_Corrosion_en_milieu_marin_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/DS5%20ratt%20Corrosion%20complet.pdf"
+  },
+  {
+    "title": "DS6_Ce_ramiques_et_verres_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/DS6%20Ce%CC%81ramiques%20et%20verres.pdf"
+  },
+  {
+    "title": "BB3_Eau_potable_pdf",
+    "host": "https://www.chaurand.fr/site/Specialite-S.html",
+    "link": "Specialite-S_files/Exercice%20Spe%CC%81%20Eau%20potable%20complet.pdf"
+  },
+  {
+    "title": "217_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-1-chiffres-significatifs.pdf"
+  },
+  {
+    "title": "132_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-2-les-molecules.pdf"
+  },
+  {
+    "title": "531_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-3-signaux-periodiques.pdf"
+  },
+  {
+    "title": "1_0_Mo",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-4-extractions-et-syntheses.pdf"
+  },
+  {
+    "title": "2_2_Mo",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-5-densite-et-medicaments.pdf"
+  },
+  {
+    "title": "999_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-6-ordres-de-grandeurs-et-atome.pdf"
+  },
+  {
+    "title": "538_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-7-constituants-de-l-atome.pdf"
+  },
+  {
+    "title": "1_9_Mo",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-8-elements.pdf"
+  },
+  {
+    "title": "804_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-9-couches.pdf"
+  },
+  {
+    "title": "195_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-10-analyse-dimensionnelle.pdf"
+  },
+  {
+    "title": "536_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-11-mole%20(2).pdf"
+  },
+  {
+    "title": "350_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-12-la-concentration-mouvements-et-forces.pdf"
+  },
+  {
+    "title": "345_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-13-mouvements-et-forces-la-gravitation.pdf"
+  },
+  {
+    "title": "1_0_Mo",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-14-la-gravitation-universelle.pdf"
+  },
+  {
+    "title": "277_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-1-vision-et-couleurs.pdf"
+  },
+  {
+    "title": "144_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-2-vision-et-images.pdf"
+  },
+  {
+    "title": "551_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-3-la-mole.pdf"
+  },
+  {
+    "title": "127_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-4-avancement.pdf"
+  },
+  {
+    "title": "217_ko",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-5-cohesion.pdf"
+  },
+  {
+    "title": "1_4_Mo",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-6-nucleaire.pdf"
+  },
+  {
+    "title": "1_4_Mo",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-7-cohesion.pdf"
+  },
+  {
+    "title": "1_6_Mo",
+    "host": "https://www.chaurand.fr/site/ap.html",
+    "link": "download/ap-8-alcanes-et-alcools.pdf"
+  },
+  {
+    "title": "1_2_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "http://www.chaurand.fr/site/Premiere-L-13_files/Sciences%25201%2520L%2527%C5%93il%2520et%2520la%2520vision.pdf"
+  },
+  {
+    "title": "219_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "download/sciences-2-les-defauts-de-l-oeil.pdf"
+  },
+  {
+    "title": "303_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "http://www.chaurand.fr/site/Premiere-L-13_files/3%20Couleurs%20et%20Arts%20%28partie%203%29.pdf"
+  },
+  {
+    "title": "1_6_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "http://www.chaurand.fr/site/Premiere-L-13_files/Chapitre%204%20-%20Besoins%20et%20ressources.pdf"
+  },
+  {
+    "title": "0_53_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "download/sciences-5-conversions-et-gestion-de-l-energie.pdf"
+  },
+  {
+    "title": "1_3_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "download/sciences-6-qualite-sols-et-eaux.pdf"
+  },
+  {
+    "title": "1_3_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "download/sciences-7-qualite-des-aliments.pdf"
+  },
+  {
+    "title": "622_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "http://www.chaurand.fr/site/Premiere-L-13_files/Corr%20Chapitre%203.pdf"
+  },
+  {
+    "title": "427_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "http://www.chaurand.fr/site/Premiere-L-13_files/Corr%20Chapitre%204.pdf"
+  },
+  {
+    "title": "79_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "download/dc1-premiere-l-vision-complet.pdf"
+  },
+  {
+    "title": "84_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "download/bb1-1erel-2013-partie-2-hypermetropie-complet.pdf"
+  },
+  {
+    "title": "119_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "download/dc2-premiere-l-energie-complet.pdf"
+  },
+  {
+    "title": "594_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-13.html",
+    "link": "download/bac-blanc-1erel-2013-complet.pdf"
+  },
+  {
+    "title": "2_8_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/1-l-oeil-et-la-vision.pdf"
+  },
+  {
+    "title": "399_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/2-lentilles-et-constructions.pdf"
+  },
+  {
+    "title": "477_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/3-les-defauts-de-l-oeil.pdf"
+  },
+  {
+    "title": "867_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/4-syntheses-additive-et-soustractive.pdf"
+  },
+  {
+    "title": "2_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/5-pigments-et-colorants.pdf"
+  },
+  {
+    "title": "3_9_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/6-qualite-des-sols.pdf"
+  },
+  {
+    "title": "3_9_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/7-qualite-des-eaux.pdf"
+  },
+  {
+    "title": "1_7_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-19.html",
+    "link": "download/8n-engrais-et-phytosanitaires.pdf"
+  },
+  {
+    "title": "17_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-19.html",
+    "link": "download/9n-besoins-energetiques%20(1).pdf"
+  },
+  {
+    "title": "1_4_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-19.html",
+    "link": "download/9n-besoins-energetiques.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/resume-physique-chimie-ts-2016.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/ds1-ts2-2016-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/ds2-ts2-2016-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/ds3-ts2-2016-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/ds4-ts2-2016-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/ds5-ts2-2016-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/ds6-ts2-2016-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/bb1-ts2-2016-partiel.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/grille-bb2-ts2-2016.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/grille-bb3-ts2-2016.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-physique-1-ultrasons.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-physique-ece-echolocation-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-physique-2-acoustique.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-physique-3-diffraction-et-interferences-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-physique-5-table-a-coussin-d-air-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-physique-6-chutes-et-satellites-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-physique-7-propulsion-et-reaction-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-physique-8-pendule-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-physique-9-pendule-elastique.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-chimie-1-spectro-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-chimie-2-mesures-de-ph-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-chimie-3-mesures-conductimetriques-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-chimie-4-titrages-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-chimie-5-bbt-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-chimie-6-suivi-cinetique-par-spectro-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-chimie-7-jasmin-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-chimie-8-arome-de-banane-complet.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.chaurand.fr/site/ts-16.html",
+    "link": "download/tp-de-chimie-9-synthese-de-l-aspirine-complet.pdf"
+  },
+  {
+    "title": "382_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/seconde-1-1.pdf"
+  },
+  {
+    "title": "141_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/1-les-molecules-formules-et-groupes-2.pdf"
+  },
+  {
+    "title": "748_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/2-solutions-et-concentration-massique-1.pdf"
+  },
+  {
+    "title": "172_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/2-solutions-et-concentration-massique-2.pdf"
+  },
+  {
+    "title": "396_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/seconde-2-3.pdf"
+  },
+  {
+    "title": "757_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/seconde-2-4.pdf"
+  },
+  {
+    "title": "1_0_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/seconde-3-1.pdf"
+  },
+  {
+    "title": "409_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/seconde-3-2.pdf"
+  },
+  {
+    "title": "544_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/4-ondes-et-imagerie-medicale-1.pdf"
+  },
+  {
+    "title": "409_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/4-ondes-et-imagerie-medicale-2.pdf"
+  },
+  {
+    "title": "49_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/4-ondes-et-imagerie-medicale-3%20(1).pdf"
+  },
+  {
+    "title": "781_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/4-ondes-et-imagerie-medicale-4.pdf"
+  },
+  {
+    "title": "1_8_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/5-formulation-1.pdf"
+  },
+  {
+    "title": "979_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/6-extraction-et-separation-de-principes-actifs-1.pdf"
+  },
+  {
+    "title": "300_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/6-extraction-et-separation-de-principes-actifs-2.pdf"
+  },
+  {
+    "title": "431_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/6-extraction-et-separation-de-principes-actifs-3.pdf"
+  },
+  {
+    "title": "576_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/7-synthese-1.pdf"
+  },
+  {
+    "title": "576_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/7-synthese-2.pdf"
+  },
+  {
+    "title": "1_5_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/7-synthese-3.pdf"
+  },
+  {
+    "title": "521_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/8-description-de-l-univers-1.pdf"
+  },
+  {
+    "title": "232_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/8-description-de-l-univers-2.pdf"
+  },
+  {
+    "title": "283_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/9-atome-1.pdf"
+  },
+  {
+    "title": "728_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/9-atome-2.pdf"
+  },
+  {
+    "title": "228_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/9-atome-3.pdf"
+  },
+  {
+    "title": "196_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/10-l-element-chimique-1.pdf"
+  },
+  {
+    "title": "172_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/10-l-element-chimique-2.pdf"
+  },
+  {
+    "title": "1_7_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/10-l-element-chimique-3.pdf"
+  },
+  {
+    "title": "64_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/11-la-classification-1.pdf"
+  },
+  {
+    "title": "265_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/11-la-classification-2.pdf"
+  },
+  {
+    "title": "627_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/11-la-classification-3.pdf"
+  },
+  {
+    "title": "203_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/12-la-mole-1.pdf"
+  },
+  {
+    "title": "814_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/12-la-mole-2.pdf"
+  },
+  {
+    "title": "814_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/12-la-mole-3.pdf"
+  },
+  {
+    "title": "453_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/13-mouvements-et-forces-1.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/manu-13-mouvements-et-forces-1.pdf"
+  },
+  {
+    "title": "874_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/13-mouvements-et-forces-2.pdf"
+  },
+  {
+    "title": "824_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/13-mouvements-et-forces-3.pdf"
+  },
+  {
+    "title": "359_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/13-mouvements-et-forces-4.pdf"
+  },
+  {
+    "title": "1_3_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/14-la-gravitation-universelle-1.pdf"
+  },
+  {
+    "title": "778_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/14-la-gravitation-universelle-2.pdf"
+  },
+  {
+    "title": "667_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/14-la-gravitation-universelle-3.pdf"
+  },
+  {
+    "title": "844_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/14-la-gravitation-universelle-4.pdf"
+  },
+  {
+    "title": "6_5_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/15-mouvements-et-inertie-1.pdf"
+  },
+  {
+    "title": "258_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/15-mouvements-et-inertie-2.pdf"
+  },
+  {
+    "title": "1_2_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/15-mouvements-et-inertie-3.pdf"
+  },
+  {
+    "title": "175_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/15-mouvements-et-inertie-4.pdf"
+  },
+  {
+    "title": "1_0_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/16-les-materiaux-et-les-molecules-du-sport-1.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/16-les-materiaux-et-les-molecules-du-sport-2.pdf"
+  },
+  {
+    "title": "318_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/16-les-materiaux-et-les-molecules-du-sport-3.pdf"
+  },
+  {
+    "title": "445_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/16-les-materiaux-et-les-molecules-du-sport-4.pdf"
+  },
+  {
+    "title": "622_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/17-les-spectres-lumineux-1.pdf"
+  },
+  {
+    "title": "1_5_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/17-les-spectres-lumineux-2.pdf"
+  },
+  {
+    "title": "55_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/17-les-spectres-lumineux-3.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/18-dispersion-et-refraction-1.pdf"
+  },
+  {
+    "title": "105_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/18-dispersion-et-refraction-2.pdf"
+  },
+  {
+    "title": "168_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/19-proprietes-des-gaz-1.pdf"
+  },
+  {
+    "title": "317_ko",
+    "host": "https://www.chaurand.fr/site/seconde-18.html",
+    "link": "download/19-proprietes-des-gaz-2.pdf"
+  },
+  {
+    "title": "2_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/8-conservation.pdf"
+  },
+  {
+    "title": "1_5_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/9-emulsions.pdf"
+  },
+  {
+    "title": "2_2_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/10-besoins-energetiques%20(1).pdf"
+  },
+  {
+    "title": "2_0_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/10-completee.pdf"
+  },
+  {
+    "title": "3_8_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/11-conversions-et-ressources-d-energie.pdf"
+  },
+  {
+    "title": "4_2_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/11-completee.pdf"
+  },
+  {
+    "title": "3_0_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/12-stockage-et-gestion-de-l-energie%20(1).pdf"
+  },
+  {
+    "title": "3_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/12-completee.pdf"
+  },
+  {
+    "title": "337_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/bb1-2018-exercice-2-complet.pdf"
+  },
+  {
+    "title": "119_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/bb2-2018-exercice-2-complet.pdf"
+  },
+  {
+    "title": "185_ko",
+    "host": "https://www.chaurand.fr/site/premiere-l-18.html",
+    "link": "download/bb3-2018-exercice-2-complet.pdf"
+  },
+  {
+    "title": "2_8_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/series-2nde-2010.pdf"
+  },
+  {
+    "title": "106_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/physique-1-echelles-distances-complet.pdf"
+  },
+  {
+    "title": "78_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/physique-2-grandes-longueurs-complet%20(1).pdf"
+  },
+  {
+    "title": "127_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/physique-3-petites-longueurs-complet%20(1).pdf"
+  },
+  {
+    "title": "74_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/enonce-4-2009-naturel-ou-synthese-complet.pdf"
+  },
+  {
+    "title": "135_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/chimie-5-2009-extractions-complet.pdf"
+  },
+  {
+    "title": "74_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/chimie-6-2010-techniques-d-analyse-complet.pdf"
+  },
+  {
+    "title": "139_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/chimie-7-2010-synthese-complet.pdf"
+  },
+  {
+    "title": "90_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/physique-8-refraction-complet.pdf"
+  },
+  {
+    "title": "123_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/enonce-9-2010-spectres-complet.pdf"
+  },
+  {
+    "title": "78_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/chimie-10-2010-atome-complet.pdf"
+  },
+  {
+    "title": "172_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/chimie-11-les-elements-complet.pdf"
+  },
+  {
+    "title": "66_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/chimie-12-couches-electroniques-complet.pdf"
+  },
+  {
+    "title": "82_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/enonce-13-les-molecules-complet.pdf"
+  },
+  {
+    "title": "98_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/enonce-14-la-classification-complet.pdf"
+  },
+  {
+    "title": "250_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/physique-15-2010-relativite-et-mouvements-complet.pdf"
+  },
+  {
+    "title": "250_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/enonce-16-2010-forces-complet.pdf"
+  },
+  {
+    "title": "180_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/physique-17-2010-la-gravitation-universelle-complet.pdf"
+  },
+  {
+    "title": "160_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/enonce-18-le-temps-et-sa-mesure-complet.pdf"
+  },
+  {
+    "title": "106_ko",
+    "host": "https://www.chaurand.fr/site/seconde-10.html",
+    "link": "download/enonce-19-2010-la-mole-complet.pdf"
+  },
+  {
+    "title": "2_4_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/1-vision-et-couleur-1.pdf"
+  },
+  {
+    "title": "2_0_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/1-vision-et-couleur-2.pdf"
+  },
+  {
+    "title": "746_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/2-sources-de-lumiere-coloree-1.pdf"
+  },
+  {
+    "title": "1_0_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/2-sources-de-lumiere-coloree-2.pdf"
+  },
+  {
+    "title": "886_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/3-vision-et-image-1.pdf"
+  },
+  {
+    "title": "243_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/3-vision-et-image-2.pdf"
+  },
+  {
+    "title": "1_0_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/3-vision-et-image-3.pdf"
+  },
+  {
+    "title": "1_2_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/3-vision-et-image-4.pdf"
+  },
+  {
+    "title": "643_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/4-interaction-lumiere-matiere-1.pdf"
+  },
+  {
+    "title": "594_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/4-interaction-lumiere-matiere-2.pdf"
+  },
+  {
+    "title": "463_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/5-chimie-des-couleurs-1.pdf"
+  },
+  {
+    "title": "997_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/5-chimie-des-couleurs-2.pdf"
+  },
+  {
+    "title": "5_6_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/6-reaction-chimique-et-dosage-1.pdf"
+  },
+  {
+    "title": "262_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/6-reaction-chimique-et-dosage-2.pdf"
+  },
+  {
+    "title": "352_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/6-reaction-chimique-et-dosage-3.pdf"
+  },
+  {
+    "title": "695_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/6-reaction-chimique-et-dosage-4.pdf"
+  },
+  {
+    "title": "881_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/7-geometrie-et-vision-1.pdf"
+  },
+  {
+    "title": "490_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/7-geometrie-et-vision-2.pdf"
+  },
+  {
+    "title": "231_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/8-molecules-organiques-et-couleur-1.pdf"
+  },
+  {
+    "title": "267_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/8-molecules-organiques-et-couleur-2.pdf"
+  },
+  {
+    "title": "413_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/9-cohesion-de-la-matiere-1.pdf"
+  },
+  {
+    "title": "210_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/9-cohesion-de-la-matiere-2.pdf"
+  },
+  {
+    "title": "1_0_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/10-radioactivite-1.pdf"
+  },
+  {
+    "title": "160_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/10-radioactivite-2.pdf"
+  },
+  {
+    "title": "385_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/10-radioactivite-3.pdf"
+  },
+  {
+    "title": "196_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/11-energie-nucleaire-1.pdf"
+  },
+  {
+    "title": "250_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/11-energie-nucleaire-2.pdf"
+  },
+  {
+    "title": "1_4_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/11-energie-nucleaire-3.pdf"
+  },
+  {
+    "title": "669_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/12-cohesion-solide-1.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/12-cohesion-2.pdf"
+  },
+  {
+    "title": "259_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/12-cohesion-3.pdf"
+  },
+  {
+    "title": "1_6_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/13-dissolution-1.pdf"
+  },
+  {
+    "title": "209_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/13-dissolution-2.pdf"
+  },
+  {
+    "title": "186_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/14-effets-physiques-1.pdf"
+  },
+  {
+    "title": "1_7_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/14-effets-physiques-2.pdf"
+  },
+  {
+    "title": "2_4_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/15-alcanes-et-alcools-1%20(2).pdf"
+  },
+  {
+    "title": "2_2_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/16-notion-de-champ-1.pdf"
+  },
+  {
+    "title": "359_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/17-champs-magnetiques-et-electrostatiques-1.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/17-champs-magnetiques-et-electrostatiques-2%20(1).pdf"
+  },
+  {
+    "title": "1_7_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/18-champ-de-pesanteur-1.pdf"
+  },
+  {
+    "title": "180_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/18-champ-de-pesanteur-2.pdf"
+  },
+  {
+    "title": "431_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/18-champ-de-pesanteur-3.pdf"
+  },
+  {
+    "title": "1_5_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/19-energie-mecanique-1.pdf"
+  },
+  {
+    "title": "260_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/19-energie-mecanique-2.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/20-energie-electrique-1.pdf"
+  },
+  {
+    "title": "247_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/20-energie-electrique-2.pdf"
+  },
+  {
+    "title": "257_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/21-l-energie-chimique-1.pdf"
+  },
+  {
+    "title": "343_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/22-utilisation-raisonnee-1.pdf"
+  },
+  {
+    "title": "721_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/23-piles-et-oxydoreduction-1.pdf"
+  },
+  {
+    "title": "207_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/23-piles-et-oxydoreduction-2%20(1).pdf"
+  },
+  {
+    "title": "311_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/23-piles-et-oxydoreduction-3.pdf"
+  },
+  {
+    "title": "902_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/24-familles-chimiques-1.pdf"
+  },
+  {
+    "title": "341_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/24-familles-chimiques-2.pdf"
+  },
+  {
+    "title": "306_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/24-familles-chimiques-3.pdf"
+  },
+  {
+    "title": "265_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/25-oxydations-en-chimie-organique-1.pdf"
+  },
+  {
+    "title": "270_ko",
+    "host": "https://www.chaurand.fr/site/premiere-s-18.html",
+    "link": "download/26-production-et-transport-de-l-energie-electrique-1.pdf"
+  },
+  {
+    "title": "Cours_exercices_TES____",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "Cours%20exercices%20TES%20sp%e9%20Chapitre%201%20Graphes%20Ann%e9e%202008-2009.pdf"
+  },
+  {
+    "title": "Exercice_3_graphes_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "Exercice%203%20graphes.pdf"
+  },
+  {
+    "title": "complexes_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "complexes.pdf"
+  },
+  {
+    "title": "courbes_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "courbes.pdf"
+  },
+  {
+    "title": "derivation_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "derivation.pdf"
+  },
+  {
+    "title": "developpements_limit___",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "developpements%20limit%e9s.pdf"
+  },
+  {
+    "title": "fonctions_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "fonctions.pdf"
+  },
+  {
+    "title": "hyperchevre_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "hyperchevre.pdf"
+  },
+  {
+    "title": "integration_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "integration.pdf"
+  },
+  {
+    "title": "limites_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "limites.pdf"
+  },
+  {
+    "title": "polynomes_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "polynomes.pdf"
+  },
+  {
+    "title": "suites_pdf",
+    "host": "http://alexandre.sicard.free.fr/divers/",
+    "link": "suites.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "http://hdehaan.free.fr/documents/trig_cir.htm",
+    "link": "trig_cir.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "http://hdehaan.free.fr/documents/operateur/operateur.htm",
+    "link": "operateur.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "http://hdehaan.free.fr/documents/astuce_trigo.htm",
+    "link": "astuce_trigo.pdf"
+  },
+  {
+    "title": "Caract_ristiques_d_une_bobine_r_elle___Mouvements_de_particules_charg_es___Rendement_d_une_turbine___gaz___Autour_de_l__l_ment_carbone_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/phycom_2001.pdf"
+  },
+  {
+    "title": "L_iode_et_ses___compos_s____IN_CAUDA_VENENUM__",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/physpe_2001.pdf"
+  },
+  {
+    "title": "Etude_d_un_ressort_dans_2_r_f_rentiels___Transitoires_thermiques_et__lectriques___Les_champs__lectrostatiques_et_magn_tostatiques___Autour_de_l_ammoniac_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physique-02.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor02-pc-commune.pdf"
+  },
+  {
+    "title": "alade_martienne___Compteur_d_impulsions___Etude_d_un_climatiseur_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physpe-02.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor02-pc-specifique.pdf"
+  },
+  {
+    "title": "Epreuve_commune___Etude_de_quelques_montages___Etude_du_mouvement_de_satellites___Etude_de_quelques_ph_nom_nes_irr_versibles_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physique-03.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor03-pc-commune.pdf"
+  },
+  {
+    "title": "Epreuve_de___sp_cialit____Autour_de_l__l_ment_magn_sium___Piscine___vagues_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physpe-03.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor03-pc-specifique.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physique-04.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor04-pc-com.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physpe-04.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor04-pc-spe.pdf"
+  },
+  {
+    "title": "Epreuve___commune_T_lescope_de_Cassegrain_Circuit_RLC_Station_spatiale_Pompe___chaleur_Autour_des_oxydes_d_azote_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physique-05.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor05-pc-com.pdf"
+  },
+  {
+    "title": "Epreuve_de___sp_cialit__Continuit_s__discontinuit_s_Dosage_d_une_solution_de_glucose_par_la_m_thode_de_Bertrand_Etude_de_la_r_action_d_oxydation_d_un_m_lange_de_fructose_et_de_glucose_par___les_ions_molybdate_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physpe-05.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor05-pc-spe.pdf"
+  },
+  {
+    "title": "Epreuve___de_sp_cialit__",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physique-06.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor06-pc-com.pdf"
+  },
+  {
+    "title": "Quelques_exp_riences_____l_aide_d_un_barom_tre___Thermodynamique_du_barom_tre___Optique__lentilles__miroir____Filtre_de_Wien__Oscillateur___Etude_de_quelques_compos_s_azot_s_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physpe-06.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor06-pc-spe.pdf"
+  },
+  {
+    "title": "Mesure_d_une_focale___R_gime_transitoire__R_gime_sinuso_dal___Plan_tes___Aluminium_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physique-07.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor07-pc-com.pdf"
+  },
+  {
+    "title": "Temp_rature_et_pression_dans_la_troposph_re___Cha_ne__lectronique_de_mesure_de_la_temp_rature___Temp_rature_et_r_sistance_de_platine___Temp_rature_et_un_peu_d_optique____Temp_ratures_et_machine_thermique_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physpe-07.pdf"
+  },
+  {
+    "title": "CORRIGE",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/cor07-pc-spe.pdf"
+  },
+  {
+    "title": "Electrocin_tique___circuits_et_mesures__M_canique___mod_lisation_d_un_oscillateur__Mesures_thermodynamiques__Le_fer_et_ses_ions_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physique-08%20(1).pdf"
+  },
+  {
+    "title": "Energies_renouvelables_chimiques___Saturne__ses_anneaux__son_satellite_Titan_",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_mines/Physpe-08_specifique.pdf"
+  },
+  {
+    "title": "ENAC_2007",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_enac/enac_2007.pdf"
+  },
+  {
+    "title": "ENAC_2005",
+    "host": "http://hdehaan.free.fr/page_base_problemes.htm",
+    "link": "documents/doc_enac/enac_2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "http://hdehaan.free.fr/documents/coordonnees/coordonnees.htm",
+    "link": "coordonnees.pdf"
+  },
+  {
+    "title": "429_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/1n-description-de-l-univers-1.pdf"
+  },
+  {
+    "title": "241_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/1n-description-de-l-univers-2.pdf"
+  },
+  {
+    "title": "500_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/1n-description-de-l-univers-3.pdf"
+  },
+  {
+    "title": "537_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/2n-solutions-et-concentration-massique-1.pdf"
+  },
+  {
+    "title": "2_9_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/2n-solutions-et-concentration-massique-2.pdf"
+  },
+  {
+    "title": "418_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/2n-solutions-et-concentration-massique-3.pdf"
+  },
+  {
+    "title": "864_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/2n-solutions-et-concentration-massique-4.pdf"
+  },
+  {
+    "title": "731_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/3n-les-signaux-periodiques-en-medecine-1.pdf"
+  },
+  {
+    "title": "465_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/3n-les-signaux-periodiques-en-medecine-2.pdf"
+  },
+  {
+    "title": "501_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/3n-les-signaux-periodiques-en-medecine-3.pdf"
+  },
+  {
+    "title": "557_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/4n-ondes-et-imagerie-medicale-1.pdf"
+  },
+  {
+    "title": "422_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/4n-ondes-et-imagerie-medicale-2.pdf"
+  },
+  {
+    "title": "644_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/4n-ondes-et-imagerie-medicale-3.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/5n-formulation-1.pdf"
+  },
+  {
+    "title": "557_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/5n-formulation-2.pdf"
+  },
+  {
+    "title": "979_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/6n-extraction-1.pdf"
+  },
+  {
+    "title": "656_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/6n-extraction-2.pdf"
+  },
+  {
+    "title": "351_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/6n-extraction-3.pdf"
+  },
+  {
+    "title": "424_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/6n-extraction-4.pdf"
+  },
+  {
+    "title": "266_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/6n-extraction-5.pdf"
+  },
+  {
+    "title": "576_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/7n-synthese-1.pdf"
+  },
+  {
+    "title": "738_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/7n-synthese-2.pdf"
+  },
+  {
+    "title": "200_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/7n-synthese-3.pdf"
+  },
+  {
+    "title": "379_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/8n-atome-1.pdf"
+  },
+  {
+    "title": "298_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/8n-atome-2.pdf"
+  },
+  {
+    "title": "217_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/8n-atome-3.pdf"
+  },
+  {
+    "title": "1_1_Mo",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/9n-l-element-chimique-1.pdf"
+  },
+  {
+    "title": "171_ko",
+    "host": "https://www.chaurand.fr/site/seconde-19.html",
+    "link": "download/9n-l-element-chimique-2.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro1.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro1_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro2.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro2_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro3.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro3_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/DS1.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/DS1_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro4.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro4_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/DS2.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/DS2_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro5.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro5_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro6.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro6_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro7.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro7_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/DS3.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro8.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/interro8_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_23_24.html",
+    "link": "ds_23_24/DS4_PC.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro1.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro1_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro2.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro2_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS1.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS1_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro3.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro3_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro4.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro4_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS2.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS2_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro5.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro5_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro6.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro6_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS3.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS3_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro7.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/interro7_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS4_PC.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS4_PC_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS5_PC.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS5_PC_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS6_PC.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS6_PC_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS6_PSI&7a_PC.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS6_PSI&7a_PC_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS7b_PC.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS7b_PC_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS4_PSI.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS4_PSI_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS5_PSI.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_21_22.html",
+    "link": "ds_21_22/DS5_PSI_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro1.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro1_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro2.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro2_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS1.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS1_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro3.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro3_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS2.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS2_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro4.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro4_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro5.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro5_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS3.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS3_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro6.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/interro6_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS4_PC.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS4_PC_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS5_PC.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS5_PC_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS6_PC.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS6_PC_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS7_PC.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS7_PC_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS4_PSI.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS4_PSI_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS5_PSI.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS5_PSI_corrige.pdf"
+  },
+  {
+    "title": "_nonc_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS6_PSI.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/ds_22_23.html",
+    "link": "ds_22_23/DS6_PSI_corrige.pdf"
+  },
+  {
+    "title": "sujets",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_exercices.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_01.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_02.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_03.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_04.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_05.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_06.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_07.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_08.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_09.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_10.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_11.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_12.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_13.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_14.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_15.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_16.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_17.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/transfo_thermo_18.pdf"
+  },
+  {
+    "title": "sujets",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_exercices.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_01.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_02.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_03.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_04.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_05.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_06.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_07.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_08.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_09.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/cinetique_10.pdf"
+  },
+  {
+    "title": "sujets",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_exercices.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_01.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_02.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_03.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_04.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_05.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_06.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_07.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_08.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_09.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_10.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_11.pdf"
+  },
+  {
+    "title": "corrig_",
+    "host": "https://chimie-pcsi-jds.net/exercices.html#e1",
+    "link": "exercices/ato_12.pdf"
+  },
+  {
+    "title": "Liste_des_Chapitres_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "documents/doc_pcsi/liste_chapitres.pdf"
+  },
+  {
+    "title": "Acc1_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_1_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc1_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_1_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc2_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_2_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc2_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_2_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc3_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_3_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc3_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_3_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc4_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_4_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc4_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_4_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc5_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_5_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc5_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_5_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc6_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_6_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc6_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_6_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc7_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_7_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc7_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_7_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc8_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_8_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc8_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_8_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc9_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_9_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc9_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_9_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc10_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_10_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc10_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_10_19_20_cor.pdf"
+  },
+  {
+    "title": "Acc11_Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_11_19_20_enon.pdf"
+  },
+  {
+    "title": "Acc11_Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "accompagnement/accompagnement_19_20/acc_11_19_20_cor.pdf"
+  },
+  {
+    "title": "App1___Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_1_19_20_enon.pdf"
+  },
+  {
+    "title": "App1___Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_1_19_20_cor.pdf"
+  },
+  {
+    "title": "App2___Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_2_19_20_enon.pdf"
+  },
+  {
+    "title": "App2___Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_2_19_20_cor.pdf"
+  },
+  {
+    "title": "App3___Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_3_19_20_enon.pdf"
+  },
+  {
+    "title": "App3___Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_3_19_20_cor.pdf"
+  },
+  {
+    "title": "App4___Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_4_19_20_enon.pdf"
+  },
+  {
+    "title": "App4___Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_4_19_20_cor.pdf"
+  },
+  {
+    "title": "App5___Enonc_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_5_19_20_enon.pdf"
+  },
+  {
+    "title": "App5___Corrig_",
+    "host": "http://hdehaan.free.fr/page_base_pcsi.htm",
+    "link": "approfondissement/approfondissement_19_20/app_5_19_20_cor.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/optique_bases_optique_geometrique.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/optique_bases_optique_geometrique_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/optique_miroirs_lentilles.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/optique_miroirs_lentilles_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/electrocinetique_lois_generales_ARQS.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/electrocinetique_lois_generales_ARQS_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/electrocinetique_regimes_transitoires.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/electrocinetique_regime_transitoire_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_introduction_meca_classique.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_reperage_point_vitesse_acceleration.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/mecanique_reperage_point_vitesse_acceleration_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_dynamique_point.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/mecanique_dynamique_point_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_problemes_un_degre_liberte.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/mecanique_problemes_un_degre_liberte_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_oscillations_libres.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/electrocinetique_regime_sinusoidal_force.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/electrocinetique_regime_sinusoidal_force_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/electrocinetique_filtres.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/electrocinetique_filtres_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_oscillations_forcees.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/mecanique_oscillations_forcees.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_moment_cinetique.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/mecanique_moment_cinetique_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_forces_centrales.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/mecanique_forces_centrales_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_changements_referentiel.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/mecanique_changement_referentiel_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_referentiel_non_galileen.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/mecanique_referentiels_non_galileens.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/mecanique_deux_points_materiels.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/mecanique_systeme_deux_points.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/thermodynamique_gaz_parfait_monoatomique.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/thermodynamique_gaz_parfait_monoatomique_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/thermodynamique_statique_fluides.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/thermodynamique_statique_fluides_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/thermodynamique_premier_principe.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/thermodynamique_premier_principe_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/thermodynamique_deuxieme_principe.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/thermodynamique_deuxieme_principe_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/thermodynamique_changement_etat.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/thermodynamique_corps_pur_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/thermodynamique_machines_thermiques_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/electromagnetisme_calcul_integral.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_exo/electromagnetisme_calcul_integral_exo.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/electromagnetisme_electrostatique.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://coursdephysique.decout.org/telechargements.htm",
+    "link": "cours_de_physique_PDF/electromagnetisme_magnetostatique.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "http://hdehaan.free.fr/documents/trig_hyp.htm",
+    "link": "trig_hyp.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "http://hdehaan.free.fr/documents/equations_differentielles/equa_diff_lineaire.htm",
+    "link": "equa_diff_lineaire.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Baccalaureat_ES_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Pondichery_ES_juin_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Amerique_du_Nord_ES_juin_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Antilles_ES_juin_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Asie_ES_juin_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Centres_etrangers_juin_97.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/La_Reunion_ES_juin_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Metropole_gr-__Ibis_juin_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Metropole_gr-_IIbis_juin_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Polynesie_ES_juin_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Antilles_ES_sept_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Metropole_ES_sept-97.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Polynesie_ES_sept_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Sportifs_ES_sept_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-1997-14-sujets",
+    "link": "IMG/pdf/Nlle_Caledonie_ES_dec-1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Baccalaureat_S_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Pondichery_Savril_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Amerique_du_Nord_S_juin_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Antilles_S_juin_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Asie_S_juin_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Centres_etrangers_I_S_juin_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Etranger_II_S_juin_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Etranger_S_III_juin_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/LaReunion_juillet_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Groupe_I_Paris_S_juin_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Groupe_II_Bordeaux_S_juin_1997-DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Polynesie_S_juin_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Antilles_S_septembre_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Metropole_S_sept_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Polynesie_S_sept__1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Sportifs_de_haut_niveau_S_oct_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/Amerique_Sud_S_nov_1997.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1997-17-sujets",
+    "link": "IMG/pdf/NouvelleCaledonie_S_de_c_1997_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Baccalaureat_ES_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Pondichery_ES_avril_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Pondichery_avril_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Amerique_Nord_ES_29_mai_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Amerique_Nord_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Antilles_Guyane_ES_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Antilles_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Asie_ES_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Asie_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Metropole_ES_19_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_Metropole_ES_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Centres_etrangers_ES_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Centres_etrangers_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/La_Reunion_ES_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_La_Reunion_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Polynesie_ES_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Polynesie_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Liban_ES_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Liban_juin_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Antilles_ES_sept_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Antilles_sept_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Metropole_ES_sept_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Metro_Reunion_sept_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Polynesie_ES_sept_2008_DV.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Polynesie_sept_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Amerique_Sud_ES_nov_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Amerique_Sud_nov_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Nlle_Caledonie_ES_nov_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Caledonie_novembre_2008.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Nlle_Caledonie_ES_mars_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2008-15-sujets-15-corriges",
+    "link": "IMG/pdf/Corrige_ES_Caledonie_mars_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Baccalaureat_ES_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Pondichery_ES_juin_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Amerique_Nord_ES-2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Antilles_ES_juin_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Asie_ES_juin_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Etranger1_ES_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/La_Reunion_juin_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Liban_ES_juin_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Metropole_ES_juin_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Polynesie_ES_juin_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Antilles_ES_sept_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Metropole_ES_sept_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Polynesie_ES_sept_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Amerique_Sud_ES_dec_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2002-15-sujets",
+    "link": "IMG/pdf/Nouvelle_Cale_ES_nov_2002.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Baccalaureat_ES_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Pondichery_ES_mars_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Amerique_du_Nord_ESj_uin_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Antilles_ES_juin_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/AsieES_juin_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Centres_etrangers_ES_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/La_Reunion_ES_juin_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Liban_ES_juin_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Metropole_ES_juin_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Polynesie_ES_juin_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Antilles_ES_sept_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Metropole_ES_septembre_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Polynesie_ES_sept_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Amerique_Sud_ES_nov_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2003-14-sujets",
+    "link": "IMG/pdf/Nouvelle-_Cale_ES_nov_2003.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2006-6-sujets",
+    "link": "IMG/pdf/BaccalaureatTL2006.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2006-6-sujets",
+    "link": "IMG/pdf/TLCentresetrangers2006.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2006-6-sujets",
+    "link": "IMG/pdf/LaReunionL2006.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2006-6-sujets",
+    "link": "IMG/pdf/Metropole_L_spe2006.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2006-6-sujets",
+    "link": "IMG/pdf/TLPolynesiejuin2006.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2006-6-sujets",
+    "link": "IMG/pdf/Metropole_TL_sept_2006.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2006-6-sujets",
+    "link": "IMG/pdf/NlleCaledoLnov-2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2005-8-sujets",
+    "link": "IMG/pdf/BaccalaureatTL2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2005-8-sujets",
+    "link": "IMG/pdf/TLPondicheryavril2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2005-8-sujets",
+    "link": "IMG/pdf/TLCentresetrangers2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2005-8-sujets",
+    "link": "IMG/pdf/LaReunionL2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2005-8-sujets",
+    "link": "IMG/pdf/LibanTL2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2005-8-sujets",
+    "link": "IMG/pdf/FranceLspe2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2005-8-sujets",
+    "link": "IMG/pdf/TLPolynesie2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2005-8-sujets",
+    "link": "IMG/pdf/TL_Metropole_sept-2005.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2005-8-sujets",
+    "link": "IMG/pdf/Nouvelle_Caledonie_L_spe_nov2005-2.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2009-7-sujets",
+    "link": "IMG/pdf/TLBaccalaureat2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2009-7-sujets",
+    "link": "IMG/pdf/AmeriqueNordTLjuin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2009-7-sujets",
+    "link": "IMG/pdf/TLetrangerjuin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2009-7-sujets",
+    "link": "IMG/pdf/TLLibanjuin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2009-7-sujets",
+    "link": "IMG/pdf/TL_Metropole_19juin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2009-7-sujets",
+    "link": "IMG/pdf/TLPolynesiejuin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2009-7-sujets",
+    "link": "IMG/pdf/TL_Antilles_sept_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2009-7-sujets",
+    "link": "IMG/pdf/TL_Metropole_sept2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/BaccalaureatTL2004.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLAmeriqueNordLjuin2004.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLAntilles2004.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLJapon2004.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLCentresetrangersjuin2004.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLLibanLjuin2004.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLLaReunion2004.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLMetropolefaculjuin2004.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLPolynesieLjuin2004.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLAmeriqueSudnov-2004-2.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/TL-2004-10-sujets",
+    "link": "IMG/pdf/TLNlleCaledonov-2004-2.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/BaccalaureatES2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/PondicheryES16avril2009-3.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Pondichery_avril_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/ES_Antilles_juin_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Antilles_juin_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/LaReunionES19juin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_La_Reunion_juin_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/FranceES19juin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/CorrectionESMetropolejuin2009Goualard.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/PolynesieESjuin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/PolynesiecorrigeESjuin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/AsieES16juin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Asie_juin_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/CentresetrangersESjuin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Centres_e_trangers_juin_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/LibanESjuin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Liban_mai_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/AmeriqueNordES4juin2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Amerique_Nord_juin_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/AntillesGuyaneESsept2009-2.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Antilles_sept_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Metropole-ReunionESsept-2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Metropole_sept_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/PolynesieESspesept2009-2.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Polynesie_sept_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/AmeriqueSudESnov2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Amerique_Sud_nov_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/NlleCaledonieESnov2009-2.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2009-14-sujets-14-corriges",
+    "link": "IMG/pdf/Corrige_ES_Caledonie_nov_2009.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/Baccalaure_at_S-_1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/PondicherySmai1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/Ameriquedunordjuin1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/AntillesSjuin1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/Liban_S_juin_1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/LaReunion_S_1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/Metropole_S_juin1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/AsieSjuin1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/Centres_etrangers_S_juin_1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/Polynesie_S_juin_1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/AntillesSsept1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/Metropole_Ssept1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/Sportifhtniveau_sept_1999-2.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/AmeriqueSud_S_nov-1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/NlleCaledonie_S_dec-1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/Annee-1999-14-sujets-1-corrige",
+    "link": "IMG/pdf/Corrige_S_Caledonie_dec_1999.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Baccalaureat_ES_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Amerique_Nord_ES_juin_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Antilles-Guyane_ES_juin_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Asie_ES_juin_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Centres_etrangers_ES_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/La_Reunion_ES_juin_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Liban_ES_juin_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Metropole_ES_juin_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Polynesie_ES_juin_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Antilles_ES_septembre_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Metropole_ES_septembre_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Polynesie_ES_sept_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Amerique_Sud_ES_nov_2000.pdf"
+  },
+  {
+    "title": "N/A",
+    "host": "https://www.apmep.fr/BAC-TES-2000-13-sujets",
+    "link": "IMG/pdf/Nlle_Caledonie_ES_12_2000.pdf"
   }
 ]
